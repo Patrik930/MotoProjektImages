@@ -1,4 +1,66 @@
 [{
-  "model": ZX-10R
+  "id": 1,
+  "model": "Ninja 650",
+  "img": "https://i.ibb.co/nbTWksg/Ninja-650.jpg"
+
+},{
+  "id": 2,
+  "model": "Ninja 1000SX",
+  "img": "https://i.ibb.co/PMW6j1p/Ninja-1000-SX.jpg"
+  
+},{
+  "id": 3,
+  "model": "Ninja 1000SX Tourer",
+  "img": "https://i.ibb.co/wSF8dwd/Ninja-1000-SX-Tourer.png"
+
+},{
+  "id": 4,
+  "model": "Ninja 125",
+  "img": "https://i.ibb.co/cw6Z8Qd/Ninja-125.png"
+  
+},{
+  "id" : 5,
+  "model": "Ninja 125 Performance",
+  "img": "https://i.ibb.co/BqzWmfm/Ninja-125-Performance.jpg"
+},{
+  "id": 6,
+  "model": "Ninja 300",
+  "img": "https://i.ibb.co/TwhsLJK/Ninja-300.jpg"
+  
+},{
+  "id": 7,
+  "model": "Ninja 400",
+  "img": "https://i.ibb.co/H213czc/Ninja-400.png"
+
+},{
+  "id": 8,
+  "model": "Ninja 650 Urban",
+  "img": "https://i.ibb.co/Fb87ZW9/Ninja-650-Urban.png"
+  
+},{
+  "id" 9,
+  "model": "Ninja H2",
+  "img": "https://i.ibb.co/kqQ7KWk/Ninja-H2.jpg"
+
+},{
+  "id": 10,
+  "model": "Ninja H2R",
+  "img": "https://i.ibb.co/Rv5LNGf/Ninja-H2-R.png"
+},{
+  "id": 11,
+  "model": "Ninja Z H2",
+  "img": "https://i.ibb.co/NtrWRX7/Ninja-Z-H2.png"
+
+},{
+  "id": 12,
+  "model": "Ninja ZX-10R",
   "img": "https://i.ibb.co/0qMWZzd/ZX-10R.webp"
-},]
+},{
+  "id": 13,
+  "model": "Ninja ZX-14R",
+  "img": "https://i.ibb.co/RbLK0k3/Ninja-ZX-14-R.webp"
+},{
+  "id": 14,
+  "model": "Ninja ZX-6R",
+  "img": "https://i.ibb.co/4KBfKgw/Ninja-ZX-6-R.png"
+}]
